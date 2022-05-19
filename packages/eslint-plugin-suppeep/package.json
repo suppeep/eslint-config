@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-suppeep",
-  "version": "0.1.2-beta.1",
+  "version": "0.1.2-beta.2",
   "license": "MIT",
   "author": "suppeep",
   "main": "/dist/index.cjs",
