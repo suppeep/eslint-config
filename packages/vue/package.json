@@ -1,0 +1,24 @@
+{
+  "name": "@suppeep/eslint-config-vue",
+  "version": "0.1.2-beta.1",
+  "description": "",
+  "license": "MIT",
+  "author": "suppeep",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@suppeep/eslint-config-ts": "workspace:*",
+    "eslint-plugin-vue": "^9.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
+}

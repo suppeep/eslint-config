@@ -1,0 +1,4 @@
+{
+  "extends": "@suppeep",
+  "plugins": ["suppeep"]
+}

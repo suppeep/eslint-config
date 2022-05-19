@@ -1,0 +1,26 @@
+{
+  "name": "@suppeep/eslint-config-ts",
+  "version": "0.1.2-beta.1",
+  "description": "",
+  "license": "MIT",
+  "author": "suppeep",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
+  "dependencies": {
+    "@suppeep/eslint-config-basic": "workspace:*",
+    "@typescript-eslint/eslint-plugin": "^5.25.0",
+    "@typescript-eslint/parser": "^5.25.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
+}
